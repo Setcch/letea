@@ -5,3 +5,6 @@ p {
 body {
     background-color: green;
 }
+html {
+height: 100%;
+}
